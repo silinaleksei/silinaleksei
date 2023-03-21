@@ -19,7 +19,7 @@ Phone: +79212583302
 				<li>Testing Rest API in Postman: creating collections, using environment variables and <a href="https://drive.google.com/drive/folders/1sTMJ8OpiYzfend3TmPoWQj-zEx8CHKe8?usp=share_link">collections</a>, writing autotests, running collections in collection runner, in Newman and Jenkins</li>
 				<li>Web UI test automation: writing autotests in Java using Selenium WebDriver, Selenide, Junit, Allure libraries: https://github.com/silinaleksei?tab=repositories</li>
 				<li>API Test Automation: Writing Autotests in Java Using Assured, Retrofit REST Libraries https://gitlab.com/users/silinaleksei/projects</li>
-				<li>Portfolio: https://clck.ru/33cmWp</li>
+				<li>Portfolio: https://clck.ru/33cmWp target="_blank"</li>
 			</ul>
 		</section>
     
